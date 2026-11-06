@@ -1,0 +1,9 @@
+{
+  "name": "demo-marea-estudio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Demo ficticia de una web de servicios profesionales, sin backend de contacto",
+  "engines": { "node": ">=24.20.0" },
+  "scripts": { "test": "node --test tests/*.test.mjs" }
+}
